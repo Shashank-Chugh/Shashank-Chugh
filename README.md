@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shashank Chugh</h1>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile">LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/shashank-chugh/" title="LinkedIn Profile">LinkedIn</a></code>
+    <a href="https://codeforces.com/profile/Shashank_Chugh" title="LinkedIn Profile">Codeforces</a></code>
+    <a href="https://www.codechef.com/users/shashank_chugh" title="LinkedIn Profile">Codechef</a></code>
+  
+  
   <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
