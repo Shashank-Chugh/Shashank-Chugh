@@ -22,4 +22,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-chugh&" alt="shashank-chugh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank-Chugh&" alt="shashank-chugh" /></p>
