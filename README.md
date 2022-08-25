@@ -9,9 +9,9 @@
   
 </h5>
 
-- 🔭 I’m currently working on [Codedigger](http://codedigger.tech/)
+- 🔭 Working at [Sprinklr](sprinklr.com)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 Previously Interned at [Adobe](adobe.com)
 
 - 📫 Reach me out at **shshankchugh@gmail.com**
 
