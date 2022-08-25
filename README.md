@@ -9,9 +9,9 @@
   
 </h5>
 
-- 🔭 Working at [Sprinklr](sprinklr.com)
+- 🔭 Engineering at Sprinklr 
 
-- 🌱 Previously Interned at [Adobe](adobe.com)
+- 🌱 Previously Interned at Adobe
 
 - 📫 Reach me out at **shshankchugh@gmail.com**
 
